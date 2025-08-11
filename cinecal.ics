@@ -26,7 +26,7 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754608914538-76680@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250810T210000
 DTEND;TZID=Europe/Berlin:20250810T225000
@@ -35,7 +35,7 @@ URL:https://www.zeise.de/film/3504
 LOCATION:Zeise Open Air Platz der Republik 1\, 22765 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754609229338-30065@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250812T203000
 DTEND;TZID=Europe/Berlin:20250812T222000
@@ -44,7 +44,7 @@ URL:https://www.studio-kino.de/filme/wes-anderson-summer-die-royal-tenenbaums-17
 LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754609045437-59464@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250813T190000
 DTEND;TZID=Europe/Berlin:20250813T204000
@@ -53,7 +53,7 @@ URL:https://www.metropoliskino.de/home?film=2888
 LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754608612436-27256@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250813T221000
 DTEND;TZID=Europe/Berlin:20250813T235000
@@ -62,7 +62,7 @@ URL:https://www.abaton.de/!La_Haine_-_Hass
 LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754609404186-25497@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250817T200000
 DTEND;TZID=Europe/Berlin:20250817T220000
@@ -71,7 +71,7 @@ URL:https://www.metropoliskino.de/home?film=2898
 LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754652462487-66660@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250818T211500
 DTEND;TZID=Europe/Berlin:20250818T225500
@@ -80,12 +80,42 @@ URL:https://www.zeise.de/film/1102
 LOCATION:Zeise Open Air Platz der Republik 1\, 22765 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250808T112800Z
+DTSTAMP:20250811T133214Z
 UID:1754609338969-97799@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250819T203000
 DTEND;TZID=Europe/Berlin:20250819T223000
 SUMMARY:The Life Aquatic with Steve Zissou
 URL:https://www.studio-kino.de/filme/wes-anderson-summer-die-tiefseetaucher-1743/
+DESCRIPTION:Alternativ Sonntag\, 17. August 15:45
 LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T133214Z
+UID:1754917705354-84722@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250826T181500
+DTEND;TZID=Europe/Berlin:20250826T200000
+SUMMARY:Darjeeling Limited
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-darjeeling-limited-1744/
+DESCRIPTION:Alternativ Sonntag\, 24. August 15:45
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T133214Z
+UID:1754917802770-99694@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250831T180000
+DTEND;TZID=Europe/Berlin:20250831T194000
+SUMMARY:Moonrise Kingdom
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-moonrise-kingdom-1740/
+DESCRIPTION:Alternativ Dienstag\, 2. September 18:45
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250811T133214Z
+UID:1754918572231-93949@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251104T194500
+DTEND;TZID=Europe/Berlin:20251104T214500
+SUMMARY:Schweigen der Lämmer
+URL:https://www.zeise.de/film/3604
+LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR

@@ -54,15 +54,6 @@ LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250811T133214Z
-UID:1754608612436-27256@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20250813T221000
-DTEND;TZID=Europe/Berlin:20250813T235000
-SUMMARY:La Haine
-URL:https://www.abaton.de/!La_Haine_-_Hass
-LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250811T133214Z
 UID:1754609404186-25497@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250817T200000
 DTEND;TZID=Europe/Berlin:20250817T220000
@@ -119,3 +110,4 @@ URL:https://www.zeise.de/film/3604
 LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR
+

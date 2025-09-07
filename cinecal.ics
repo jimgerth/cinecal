@@ -26,7 +26,7 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250820T174401Z
+DTSTAMP:20250907T090448Z
 UID:1754608914538-76680@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250810T210000
 DTEND;TZID=Europe/Berlin:20250810T225000
@@ -35,6 +35,161 @@ URL:https://www.zeise.de/film/3504
 LOCATION:Zeise Open Air Platz der Republik 1\, 22765 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754609229338-30065@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250812T203000
+DTEND;TZID=Europe/Berlin:20250812T222000
+SUMMARY:The Royal Tenenbaums
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-die-royal-tenenbaums-1741/
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754609045437-59464@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250813T190000
+DTEND;TZID=Europe/Berlin:20250813T204000
+SUMMARY:Aftersun
+URL:https://www.metropoliskino.de/home?film=2888
+LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754609338969-97799@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250817T154500
+DTEND;TZID=Europe/Berlin:20250817T174500
+SUMMARY:The Life Aquatic with Steve Zissou
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-die-tiefseetaucher-1743/
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754609404186-25497@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250817T200000
+DTEND;TZID=Europe/Berlin:20250817T220000
+SUMMARY:The Blues Brothers
+URL:https://www.metropoliskino.de/home?film=2898
+LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754652462487-66660@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250818T211500
+DTEND;TZID=Europe/Berlin:20250818T225500
+SUMMARY:Grand Budapest Hotel
+URL:https://www.zeise.de/film/1102
+LOCATION:Zeise Open Air Platz der Republik 1\, 22765 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754608612436-27256@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250820T220000
+DTEND;TZID=Europe/Berlin:20250820T234000
+SUMMARY:La Haine
+URL:https://www.abaton.de/!La_Haine_-_Hass
+LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1755130602802-15942@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250822T210000
+DTEND;TZID=Europe/Berlin:20250822T230000
+SUMMARY:Perfect Days
+URL:https://www.filmraum.net/open-air-kino/
+LOCATION:Filmraum Open Air Hagenbeckstraße 39\, 22527 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1755710329332-82496@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250824T200000
+DTEND;TZID=Europe/Berlin:20250824T223000
+SUMMARY:2001: A Space Odyssey 
+URL:https://savoy.premiumkino.de/film/2001-odyssee-im-weltraum
+LOCATION:Savoy Steindamm 54\, 20099 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754917705354-84722@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250826T181500
+DTEND;TZID=Europe/Berlin:20250826T200000
+SUMMARY:Darjeeling Limited
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-darjeeling-limited-1744/
+DESCRIPTION:Alternativ Sonntag\, 24. August 15:45
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1755711365021-75602@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250828T190000
+DTEND;TZID=Europe/Berlin:20250828T205000
+SUMMARY:The French Dispatch
+URL:https://metropoliskino.de/planetharburg
+LOCATION:Metropolis Harburg Schloßmühlendamm 2\, 21073 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754917802770-99694@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250831T180000
+DTEND;TZID=Europe/Berlin:20250831T194000
+SUMMARY:Moonrise Kingdom
+URL:https://www.studio-kino.de/filme/wes-anderson-summer-moonrise-kingdom-1740/
+DESCRIPTION:Alternativ Dienstag\, 2. September 18:45
+LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1755711602045-28565@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250907T211500
+DTEND;TZID=Europe/Berlin:20250907T231000
+SUMMARY:Taxi Driver
+URL:https://www.metropoliskino.de/kalender?film=2946
+LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1757235509068-66132@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250914T193000
+DTEND;TZID=Europe/Berlin:20250914T211000
+SUMMARY:Kill the Jockey
+URL:https://www.abaton.de/!Kill_the_Jockey
+LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1757235616149-76590@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20250918T190000
+DTEND;TZID=Europe/Berlin:20250918T202000
+SUMMARY:Primitive Diversity
+URL:https://www.abaton.de/!Primitive_Diversity
+LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1757235793180-19721@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251031T190000
+DTEND;TZID=Europe/Berlin:20251031T201000
+SUMMARY:Das Cabinet des Dr. Caligari
+URL:https://www.zeise.de/film/3656
+LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1754918572231-93949@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251104T194500
+DTEND;TZID=Europe/Berlin:20251104T214500
+SUMMARY:Schweigen der Lämmer
+URL:https://www.zeise.de/film/3604
+LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T090448Z
+UID:1756650723664-25673@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20251202T194500
+DTEND;TZID=Europe/Berlin:20251202T214500
+SUMMARY:Charlie und die Schokoladenfabrik
+URL:https://www.zeise.de/film/3605
+LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
+END:VEVENT
+END:VCALENDARBEGIN:VEVENT
 DTSTAMP:20250820T174401Z
 UID:1754609229338-30065@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20250812T203000
@@ -154,3 +309,4 @@ URL:https://www.zeise.de/film/3604
 LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR
+

@@ -202,15 +202,6 @@ LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251107T100215Z
-UID:1762509668730-67130@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20251116T163000
-DTEND;TZID=Europe/Berlin:20251116T180500
-SUMMARY:On Becoming a Guinea Fowl
-URL:https://www.studio-kino.de/filme/on-becoming-a-guinea-fowl-1949/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251107T100215Z
 UID:1759847686599-83155@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20251123T164500
 DTEND;TZID=Europe/Berlin:20251123T182500
@@ -238,3 +229,4 @@ URL:https://www.studio-kino.de/filme/goodfellas-1883/
 LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR
+

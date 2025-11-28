@@ -174,15 +174,6 @@ LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20251127T231735Z
-UID:1763567383062-65183@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20251129T220000
-DTEND;TZID=Europe/Berlin:20251129T233500
-SUMMARY:Mad Max
-URL:https://www.b-movie.de/programm/
-LOCATION:B-Movie Brigittenstraße 5\, 20359 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T231735Z
 UID:1756650723664-25673@ical.marudot.com
 DTSTART;TZID=Europe/Berlin:20251202T194500
 DTEND;TZID=Europe/Berlin:20251202T214500
@@ -218,3 +209,4 @@ URL:https://www.abaton.de/!Stalker
 LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR
+

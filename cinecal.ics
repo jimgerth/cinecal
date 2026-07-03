@@ -26,158 +26,50 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773489496396-30427@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260317T183000
-DTEND;TZID=Europe/Berlin:20260317T202000
-SUMMARY:The Straight Story
-URL:https://www.studio-kino.de/filme/the-straight-story-2108/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773489369086-38279@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260324T203000
-DTEND;TZID=Europe/Berlin:20260324T230000
-SUMMARY:Mulholland Drive
-URL:https://www.studio-kino.de/filme/mulholland-drive-2107/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773490723037-48455@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260328T170000
-DTEND;TZID=Europe/Berlin:20260328T182500
-SUMMARY:Fire Will Come
-URL:https://www.metropoliskino.de/home?film=3423
-LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1774482840131-52253@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260328T221500
-DTEND;TZID=Europe/Berlin:20260329T002500
-SUMMARY:A Useful Ghost
-URL:Studio Bernstorffstraße 93, 22767 Hamburg, Deutschland
-LOCATION:https://www.studio-kino.de/filme/a-useful-ghost-2163/
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1774483054706-74202@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260329T140000
-DTEND;TZID=Europe/Berlin:20260329T165000
-SUMMARY:Inland Empire
-URL:https://www.studio-kino.de/filme/inland-empire-2155/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773490503210-28451@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260329T201500
-DTEND;TZID=Europe/Berlin:20260329T221000
-SUMMARY:Sirāt
-URL:https://www.metropoliskino.de/home?film=3438
-LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773490642572-19545@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260330T191500
-DTEND;TZID=Europe/Berlin:20260330T204500
-SUMMARY:Inuk
-URL:https://www.metropoliskino.de/home?film=3417
-LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773490196614-83778@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260331T210000
-DTEND;TZID=Europe/Berlin:20260331T225000
-SUMMARY:Joint Security Area
-URL:https://www.3001-kino.de/programm/detail/26-03-31/10327-joint-security-area/
+DTSTAMP:20260703T092424Z
+UID:1783070109868-75576@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260703T203000
+DTEND;TZID=Europe/Berlin:20260703T231000
+SUMMARY:Resurrection
+URL:https://www.kinoheld.de/kino/hamburg/3001-kino-hamburg/vorstellung/12681?rb=0&ref=cv
 LOCATION:3001 Schanzenstraße 75\, 20357 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1775046168466-15960@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260401T213000
-DTEND;TZID=Europe/Berlin:20260401T233000
-SUMMARY:Sneak Preview
-URL:https://www.studio-kino.de/filme/sneak-preview-672/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+DTSTAMP:20260703T092424Z
+UID:1783070267468-20099@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260708T193000
+DTEND;TZID=Europe/Berlin:20260708T211000
+SUMMARY:Aftersun
+URL:https://www.kinoheld.de/kino/hamburg/schanzenkino-73/vorstellung/3578257528?rb=0&ref=cv
+LOCATION:Nestkino Schulterblatt 73\, 20357 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1775151114792-80731@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260405T214500
-DTEND;TZID=Europe/Berlin:20260405T235500
-SUMMARY:Alpha
-URL:https://www.abaton.de/!Alpha
-DESCRIPTION:https://www.youtube.com/watch?v=hqkZJ6qd-SE
-LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1775510761223-56601@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260407T193000
-DTEND;TZID=Europe/Berlin:20260407T223000
-SUMMARY:Project Hail Mary
-URL:https://www.cinemaxx.de/kinoprogramm/hamburg-dammtor/film/der-astronaut---project-hail-mary
-LOCATION:CinemaxX Dammtordamm 1\, 20354 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773490080054-92010@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260408T220000
-DTEND;TZID=Europe/Berlin:20260409T000000
-SUMMARY:Oldboy
-URL:https://abaton.de/!Oldboy
-LOCATION:Abaton Grindelhof 3\, 20146 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1775510825515-56020@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260414T203000
-DTEND;TZID=Europe/Berlin:20260414T221500
-SUMMARY:I'm a Cyborg\, But That s OK
-URL:https://www.3001-kino.de/programm/detail/26-04-14/10323-im-a-cyborg-but-that-s-ok/
-LOCATION:3001 Schanzenstraße 75\, 20357 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1774484539605-59482@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260419T190000
-DTEND;TZID=Europe/Berlin:20260419T212500
-SUMMARY:Die Werckmeisterschen Harmonien
-URL:https://www.b-movie.de/programm/?programm=kommend
-DESCRIPTION:Alternativ Samstag 25. April 21:00
-LOCATION:B-Movie Brigittenstraße 5\, 20359 Hamburg\, Deutschland
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1774483785976-29577@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260420T184500
-DTEND;TZID=Europe/Berlin:20260420T210000
-SUMMARY:Einer flog über das Kuckucksnest
-URL:https://www.metropoliskino.de/home?film=3519
+DTSTAMP:20260703T092424Z
+UID:1783070650367-78458@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260714T184500
+DTEND;TZID=Europe/Berlin:20260714T204500
+SUMMARY:Bugonia
+URL:https://www.kinoheld.de/kino/hamburg/metropolis-kino/vorstellung/3562604911?rb=0&ref=cv
 LOCATION:Metropolis Kleine Theaterstraße 10\, 20354 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1776610614992-60227@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260421T190000
-DTEND;TZID=Europe/Berlin:20260421T235500
-SUMMARY:Kill Bill: The Whole Bloody Affair
-URL:https://www.studio-kino.de/filme/kill-bill-the-whole-bloody-affair-2127/
-LOCATION:Studio Bernstorffstraße 93\, 22767 Hamburg\, Deutschland
+DTSTAMP:20260703T092424Z
+UID:1783070478202-59156@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260719T190000
+DTEND;TZID=Europe/Berlin:20260719T215000
+SUMMARY:Die Odyssee
+URL:https://www.uci-kinowelt.de/film/die-odyssee/407923/hh-wandsbek-smart-city/54
+DESCRIPTION:OV
+LOCATION:UCI Wandsbek Friedrich-Ebert-Damm 134\, 22047 Hamburg\, Deutschland
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260419T145810Z
-UID:1773491570591-17538@ical.marudot.com
-DTSTART;TZID=Europe/Berlin:20260606T200000
-DTEND;TZID=Europe/Berlin:20260606T214000
-SUMMARY:Spaceballs
-URL:https://www.zeise.de/film/3755
-LOCATION:Zeise Friedensallee 7-9\, 22765 Hamburg\, Deutschland
+DTSTAMP:20260703T092424Z
+UID:1783070504748-96772@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20260720T200000
+DTEND;TZID=Europe/Berlin:20260720T225000
+SUMMARY:Die Odyssee
+URL:https://www.uci-kinowelt.de/film/die-odyssee/407923/hh-wandsbek-smart-city/54
+DESCRIPTION:DF
+LOCATION:UCI Wandsbek Friedrich-Ebert-Damm 134\, 22047 Hamburg\, Deutschland
 END:VEVENT
 END:VCALENDAR
